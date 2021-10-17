@@ -24,3 +24,5 @@ sqlparse==0.4.2
 typing-extensions==3.10.0.2
 uritemplate==3.0.1
 urllib3==1.26.7
+gunicorn==20.1.0
+psycopg2-binary==2.9.1
