@@ -80,3 +80,4 @@ ENV/
 env.bak/
 venv.bak/
 .vscode/settings.json
+db.sqlite3
